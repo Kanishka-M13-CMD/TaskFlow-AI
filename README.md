@@ -33,7 +33,7 @@ A Smart Task Management Web Application with AI-powered productivity insights, a
 
 ## 🌐 Live Demo
 
-🔗 Live Demo: https://cool-vacherin-76bf2c.netlify.app
+🔗 https://cool-vacherin-76bf2c.netlify.app
 
 ---
 
